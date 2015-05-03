@@ -1,3 +1,13 @@
+/*
+Command: ./ex11.out 
+Output:
+-	arg 0:./ex11.out
+-	sizeof states:32
+-	state 0:California
+-	state 1:Oregaon
+-	state 2:Washington
+-	state 3:Texas
+*/
 #include <stdio.h>
 int main(int argc, const char *argv[])
 {
@@ -20,16 +30,3 @@ int main(int argc, const char *argv[])
 	}
 	return 0;
 }
-
-//	arg 0:./ex11.out
-//	arg 1:I
-//	arg 2:am
-//	arg 3:a
-//	arg 4:bunch
-//	arg 5:of
-//	arg 6:arguments
-//	sizeof states:32
-//	state 0:California
-//	state 1:Oregaon
-//	state 2:Washington
-//	state 3:Texas

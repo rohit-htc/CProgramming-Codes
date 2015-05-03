@@ -1,3 +1,16 @@
+/*
+Command: ./ex10.out I Love You
+Output:
+-	arg 1:I
+-	arg 2:Love
+-	arg 3:You
+-	sizeof states:32
+-	state 0:California
+-	state 1:Oregaon
+-	state 2:Washington
+-	state 3:Texas
+-	state 4:
+*/
 #include <stdio.h>
 int main(int argc, const char *argv[])
 {
@@ -17,8 +30,4 @@ int main(int argc, const char *argv[])
 	}
 	return 0;
 }
-//	sizeof states:32
-//	state 0:California
-//	state 1:Oregaon
-//	state 2:Washington
-//	state 3:Texas
+

@@ -1,3 +1,22 @@
+/*
+Command: ./ex13.out rohitanand
+Output:
+-	0: r is not a vowel
+-	1: 'O'
+-	2: h is not a vowel
+-	3: 'I'
+-	4: t is not a vowel
+-	5: 'A'
+-	6: n is not a vowel
+-	7: 'A'
+-	8: n is not a vowel
+-	9: d is not a vowel
+*/
+/*
+Command: ./ex13.out 
+Output:
+-	Error: You need one argument
+*/
 #include <stdio.h>
 int main(int argc, const char *argv[])
 {
@@ -42,13 +61,3 @@ int main(int argc, const char *argv[])
 	}
 	return 0;
 }
-//	0: r is not a vowel
-//	1: 'O'
-//	2: h is not a vowel
-//	3: 'I'
-//	4: t is not a vowel
-//	5: 'A'
-//	6: n is not a vowel
-//	7: 'A'
-//	8: n is not a vowel
-//	9: d is not a vowel

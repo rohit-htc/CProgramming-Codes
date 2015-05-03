@@ -1,3 +1,17 @@
+/*
+Command: ./ex8.out 
+Output:
+-	The size of an int: 4
+-	The size of an areas(int[]): 20
+-	The number ints in areas: 5
+-	The first area is 10 and the second area is 12
+-	The size of an char: 1
+-	The size of name(char[]):4
+-	The number of chars:4
+-	The size of full_name(char[]):12
+-	The number of chars:12
+-	name="Zed" and full_name="Zed A. Shaw"
+*/
 #include <stdio.h>
 int main(int argc, const char *argv[])
 {

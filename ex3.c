@@ -1,3 +1,9 @@
+/*
+Command: ./ex3.out 
+Output:
+-	I am 10 years old
+-	I am 72 inches tall
+*/
 #include <stdio.h>
 int main(int argc, const char *argv[])
 {
