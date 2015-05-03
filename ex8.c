@@ -3,7 +3,7 @@ int main(int argc, const char *argv[])
 {
 	int areas[]={10,12,13,14,15};
 	char name[]="Zed";
-	char full_name[]={'Z','e','d',' ','A','.',' ','S','h','a','w','\0'};
+	char full_name[]={'Z','e','d',' ','A','.',' ','S','h','a','w'};
 
 	printf("The size of an int: %ld\n",sizeof(int));
 	printf("The size of an areas(int[]): %ld\n",sizeof(areas));
