@@ -1,4 +1,10 @@
 /*
+ Compile:
+	cc -Wall -g -c -o ex22.o ex22.c
+	 cc -Wall -g ex22_main.c ex22.o -o ex22_main.out
+ *
+ */
+/*
 Command: ./ex22_main.out 
 Output:
 -	[INFO] (ex22_main.c:18: errno: None) My name: Rohit Anand, age: 37
